@@ -4,7 +4,7 @@ DisplayStrings = (
 abcdefghijklmnopqrstuvwxyz,
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
 );
-copyright = "Copyright 2008-2021 The Hurricane Project Authors (https://github.com/googlefonts/petemoss)";
+copyright = "Copyright 2008-2021 The Petemoss Project Authors (https://github.com/googlefonts/petemoss)";
 customParameters = (
 {
 name = licenseURL;
@@ -52,7 +52,7 @@ Tag = wght;
 }
 );
 date = "2021-09-02 23:45:01 +0000";
-designer = "Robert E. Leuschke ";
+designer = "Robert E. Leuschke";
 designerURL = www.typesetit.com;
 disablesAutomaticAlignment = 1;
 disablesNiceNames = 1;
@@ -116,11 +116,11 @@ capHeight = 480;
 customParameters = (
 {
 name = typoAscender;
-value = 950;
+value = 870;
 },
 {
 name = typoDescender;
-value = -430;
+value = -350;
 },
 {
 name = typoLineGap;
@@ -128,11 +128,11 @@ value = 0;
 },
 {
 name = hheaAscender;
-value = 950;
+value = 870;
 },
 {
 name = hheaDescender;
-value = -430;
+value = -350;
 },
 {
 name = hheaLineGap;
@@ -30763,9 +30763,9 @@ t = 45;
 };
 };
 };
-manufacturer = "Robert E. Leuschke ";
+manufacturer = "Robert E. Leuschke";
 manufacturerURL = www.typesetit.com;
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 4;
+versionMinor = 6;
 }
