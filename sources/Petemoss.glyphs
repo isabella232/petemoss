@@ -6,7 +6,8 @@ DisplayStrings = (
 "aá/abreve/abreveacute/abrevedotbelow/abrevegrave/abrevehookabove/abrevetilde/acaron â/acircumflexacute/acircumflexdotbelow/acircumflexgrave/acircumflexhookabove/acircumflextilde/adblgrave ä/adotbelow à/ahookabove/ainvertedbreve/amacron/aogonek å/aringacute ãæ/aeacute",
 "oó/obreve ô/ocircumflexacute/ocircumflexdotbelow/ocircumflexgrave/ocircumflexhookabove/ocircumflextilde/odblgrave ö/odieresismacron/odotaccentmacron/odotbelow ò/ohookabove/ohorn/ohornacute/ohorndotbelow/ohorngrave/ohornhookabove/ohorntilde/ohungarumlaut/oinvertedbreve/omacron/oogonek ø/oslashacute õ/otildemacron",
 "OÓ/Obreve/Ocaron Ô/Ocircumflexacute/Ocircumflexdotbelow/Ocircumflexgrave/Ocircumflexhookabove/Ocircumflextilde/Odblgrave Ö/Odieresismacron/Odotaccentmacron/Odotbelow Ò/Ohookabove/Ohorn/Ohornacute/Ohorndotbelow/Ohorngrave/Ohornhookabove/Ohorntilde/Ohungarumlaut/Oinvertedbreve/Omacron/Oogonek Ø/Oslashacute Õ/Otildemacron/OE",
-"/hookabovecomb/circumflexcomb_hookabovecomb/ocircumflexhookabove"
+"/hookabovecomb/circumflexcomb_hookabovecomb/ocircumflexhookabove",
+"­"
 );
 classes = (
 {
@@ -267,6 +268,15 @@ width = 174;
 );
 note = CR;
 unicode = 000D;
+},
+{
+glyphname = NULL;
+layers = (
+{
+layerId = "BE19588B-E19B-4B9D-8A17-411D65DA33D8";
+width = 600;
+}
+);
 },
 {
 color = 3;
@@ -21475,6 +21485,43 @@ width = 197;
 );
 note = hyphen;
 unicode = 002D;
+},
+{
+glyphname = softhyphen;
+lastChange = "2021-10-05 06:58:35 +0000";
+layers = (
+{
+layerId = "BE19588B-E19B-4B9D-8A17-411D65DA33D8";
+paths = (
+{
+closed = 1;
+nodes = (
+"110 178 OFFCURVE",
+"121 185 OFFCURVE",
+"181 198 CURVE",
+"202 200 LINE SMOOTH",
+"212 201 OFFCURVE",
+"217 205 OFFCURVE",
+"217 209 CURVE",
+"214 214 OFFCURVE",
+"183 216 OFFCURVE",
+"124 216 CURVE SMOOTH",
+"104 216 OFFCURVE",
+"84 216 OFFCURVE",
+"83 215 CURVE SMOOTH",
+"78 213 OFFCURVE",
+"75 208 OFFCURVE",
+"75 201 CURVE SMOOTH",
+"75 186 OFFCURVE",
+"79 178 OFFCURVE",
+"88 178 CURVE SMOOTH"
+);
+}
+);
+width = 167;
+}
+);
+unicode = 00AD;
 },
 {
 color = 3;
